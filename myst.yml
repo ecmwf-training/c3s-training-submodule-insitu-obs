@@ -27,6 +27,7 @@ project:
     - title: README instructions
       file: README.md
     - file: template-notebook.ipynb
+    - file: eobs_multiple_variables.ipynb
 site:
   template: book-theme
   options:
