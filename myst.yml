@@ -28,6 +28,8 @@ project:
       file: README.md
     - file: template-notebook.ipynb
     - file: eobs_multiple_variables.ipynb
+    - file: GRUAN_C3S_Jupyter.ipynb
+    - file: eprofile_wind_profiler_analysis.ipynb
 site:
   template: book-theme
   options:
